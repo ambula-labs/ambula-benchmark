@@ -15,3 +15,4 @@ At this time, we have identified some metrics, and the following list could evol
 - Time to make a consensus
 - Difference of energy consumption between POI and POW
 - Impact of latency (on the consensus duration, equality of chances winning the consensus ...)
+- Chain forks frequency/probability
